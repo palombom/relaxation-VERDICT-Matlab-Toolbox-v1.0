@@ -26,8 +26,7 @@ If you use Linux or MacOS:
 ```
 $ git clone https://github.com/palombom/rVERDICT.git 
 ```
-4. The main function is called "main_rVERDICT_analysis" and it analyses one dataset with the rVERDICT model. 
-5. You should now be able to use the code. 
+The main function is called "main_rVERDICT_analysis" and it analyses one dataset with the rVERDICT model. 
 
 ## Usage
 The function "main_rVERDICT_analysis" represents the core of the toolbox. It performs the rVERDICT analysis on one dataset. It assumes that data are organized as following:
