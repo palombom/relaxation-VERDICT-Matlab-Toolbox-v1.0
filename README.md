@@ -45,7 +45,7 @@ The function "main_rVERDICT_analysis" represents the core of the toolbox. It per
 **OUTPUT** of the analysis will be stored in a new folder 'DataFolder -> rVERDICT_output' where the rVERDICT maps: 'f_ic', 'f_ees', 'f_vasc' (=1 - f_ic - f_ees), 'R', 'D_ees', 'T2_ic', 'T2_vasc_ees' , 'T1' and 'S0' are saved.
 
 ## Citation
-If you use rVERDICT Matlab Toolbox, please remember to cite our main SANDI work:
+If you use rVERDICT Matlab Toolbox, please remember to cite our main rVERDICT work:
 
 Palombo, M., Valindria, V., Singh, S., Chiou, E., Giganti, F., Pye, H., ... & Panagiotaki, E. Joint estimation of relaxation and diffusion tissue parameters for prostate cancer with relaxation-VERDICT MRI. Scientific Reports 2023: 13(1), 2999. https://doi.org/10.1038/s41598-023-30182-1
 
