@@ -7,7 +7,7 @@ The "***rVERDICT (relaxation-VERDICT) Matlab Toolbox***" enables model-based joi
 For queries about the toolbox or suggestions on how to improve it, please email: palombom@cardiff.ac.uk
 
 ## Dependencies
-To use rVERDICT Matlab Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need Python with scipy, numpy, sklearn and pickle; an external repository that is already included in the rVERDICT Matlab Toolbox:
+To use rVERDICT Matlab Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need **Python** with **scipy**, **numpy**, **sklearn** and **pickle**; an external repository that is already included in the rVERDICT Matlab Toolbox:
 * [Tools for NIfTI and ANALYZE image] Jimmy Shen (2022). Tools for NIfTI and ANALYZE image (https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image), MATLAB Central File Exchange. Retrieved April 16, 2022.
 
 ## Download 
