@@ -12,7 +12,8 @@ To use rVERDICT Matlab Toolbox you will need a MATLAB distribution with the Para
 - **numpy**
 - **sklearn**
 - **pickle**
-and the external matlab repository:* [Tools for NIfTI and ANALYZE image] Jimmy Shen (2022). Tools for NIfTI and ANALYZE image (https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image), MATLAB Central File Exchange. Retrieved April 16, 2022.
+
+and the external matlab repository: [Tools for NIfTI and ANALYZE image] Jimmy Shen (2022). Tools for NIfTI and ANALYZE image (https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image), MATLAB Central File Exchange. Retrieved April 16, 2022.
 
 ## Download 
 To get the rVERDICT Matlab Toolbox clone this repository.
