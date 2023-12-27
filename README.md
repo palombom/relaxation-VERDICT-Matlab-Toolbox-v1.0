@@ -7,7 +7,7 @@ The "***rVERDICT (relaxation-VERDICT) Toolbox***" enables model-based joint esti
 For queries about the toolbox or suggestions on how to improve it, please email: palombom@cardiff.ac.uk
 
 ## Dependencies
-To use rVERDICT Matlab Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need Python with:
+To use the current version of rVERDICT Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need Python with:
 - scipy
 - numpy
 - sklearn
