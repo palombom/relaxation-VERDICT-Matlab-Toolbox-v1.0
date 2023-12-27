@@ -29,8 +29,5 @@ OutputFolder = fullfile(DataFolder, 'rVERDICT_output');
 save_rVERDICT_maps(data, OutputFolder)
 disp('   [DONE]')
 disp('//////   FINISHED   \\\\\\')
-%% Show example
-tmp = load_untouch_nii(fullfile(OutputFolder, 'f_ic.nii.gz'));
-figure, imshow(tmp.img(:,:,8), [0 1])
 
 end
