@@ -7,7 +7,7 @@ The "***rVERDICT (relaxation-VERDICT) Toolbox***" enables model-based joint esti
 For queries about the toolbox or suggestions on how to improve it, please email: palombom@cardiff.ac.uk
 
 ## Dependencies
-To use the current version of rVERDICT Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need Python with:
+To use the current implementation of rVERDICT Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need Python with:
 - scipy
 - numpy
 - sklearn
@@ -16,7 +16,7 @@ To use the current version of rVERDICT Toolbox you will need a MATLAB distributi
 and the external matlab repository: [Tools for NIfTI and ANALYZE image] Jimmy Shen (2022). Tools for NIfTI and ANALYZE image (https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image), MATLAB Central File Exchange. Retrieved April 16, 2022.
 
 ## Download 
-To get the rVERDICT Matlab Toolbox clone this repository.
+To get the rVERDICT Toolbox clone this repository.
 
 If you use Linux or MacOS:
 
@@ -45,15 +45,15 @@ The function "main_rVERDICT_analysis" represents the core of the toolbox. It per
 **OUTPUT** of the analysis will be stored in a new folder 'DataFolder -> rVERDICT_output' where the rVERDICT maps: 'f_ic', 'f_ees', 'f_vasc' (=1 - f_ic - f_ees), 'R', 'D_ees', 'T2_ic', 'T2_vasc_ees' , 'T1' and 'S0' are saved.
 
 ## Citation
-If you use rVERDICT Matlab Toolbox, please remember to cite our main rVERDICT work:
+If you use this rVERDICT Toolbox, please remember to cite our main rVERDICT work:
 
 Palombo, M., Valindria, V., Singh, S., Chiou, E., Giganti, F., Pye, H., ... & Panagiotaki, E. Joint estimation of relaxation and diffusion tissue parameters for prostate cancer with relaxation-VERDICT MRI. Scientific Reports 2023: 13(1), 2999. https://doi.org/10.1038/s41598-023-30182-1
 
 
 ## License
-rVERDICT Matlab Toolbox is distributed under the BSD 2-Clause License (https://github.com/palombom/rVERDICT/blob/main/LICENSE), Copyright (c) 2022 Cardiff University and University College London. All rights reserved.
+rVERDICT Toolbox is distributed under the BSD 2-Clause License (https://github.com/palombom/rVERDICT/blob/main/LICENSE), Copyright (c) 2022 Cardiff University and University College London. All rights reserved.
 
-**The use of rVERDICT Matlab Toolbox MUST also comply with the individual licenses of all of its dependencies.**
+**The use of rVERDICT Toolbox MUST also comply with the individual licenses of all of its dependencies.**
 
 ## Acknowledgements
 The development of rVERDICT was supported by the UKRI Future Leaders Fellowship MR/T020296/2 and EPSRC Grants EP/N021967/1 and EP/R006032/1 and by Prostate Cancer UK: Targeted Call 2014: Translational Research St.2, project reference PG14-018-TR2.
