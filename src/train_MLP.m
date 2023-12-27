@@ -1,6 +1,6 @@
 function [] = train_MLP(data, SNR, pythonpath)
 
-Nset = 1e4;
+Nset = 1e5;
 
 % Read acquisition details
 B = data.b_for_fit./1e3; %in ms/um2
