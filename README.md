@@ -22,7 +22,7 @@ If you use Linux or MacOS:
 
 1. Open a terminal;
 2. Navigate to your destination folder;
-3. Clone rVERDICT Matlab Toolbox:
+3. Clone rVERDICT Toolbox:
 ```
 $ git clone https://github.com/palombom/rVERDICT.git 
 ```
