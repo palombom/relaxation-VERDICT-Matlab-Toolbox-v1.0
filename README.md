@@ -1,4 +1,4 @@
-# relaxation-VERDICT MATLAB Toolbox
+# relaxation-VERDICT Matlab Toolbox
 
 This repository contains the latest release of the rVERDICT Toolbox.
 
