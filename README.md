@@ -1,8 +1,8 @@
-# rVERDICT
+# relaxation-VERDICT MATLAB Toolbox
 
 This repository contains the latest release of the rVERDICT Toolbox.
 
-The "***rVERDICT (relaxation-VERDICT) Toolbox***" enables model-based joint estimation of relaxation and diffusion tissue parameters for prostate cancer using Machine Learning (see the original rVERDICT paper for model assumptions and acquisition requirements DOI: [https://doi.org/10.1016/j.neuroimage.2020.116835](https://doi.org/10.1038/s41598-023-30182-1)).
+The "***relaxation-VERDICT (rVERDICT) Toolbox***" enables model-based joint estimation of relaxation and diffusion tissue parameters for prostate cancer using Machine Learning (see the original rVERDICT paper for model assumptions and acquisition requirements DOI: [https://doi.org/10.1016/j.neuroimage.2020.116835](https://doi.org/10.1038/s41598-023-30182-1)).
 
 For queries about the toolbox or suggestions on how to improve it, please email: palombom@cardiff.ac.uk
 
