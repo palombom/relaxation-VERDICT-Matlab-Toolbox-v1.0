@@ -1,8 +1,8 @@
-# relaxation-VERDICT Matlab Toolbox
+# Relaxation-VERDICT Matlab Toolbox
 
 This repository contains the latest release of the rVERDICT Toolbox.
 
-The "***relaxation-VERDICT (rVERDICT) Toolbox***" enables model-based joint estimation of relaxation and diffusion tissue parameters for prostate cancer using Machine Learning (see the original rVERDICT paper for model assumptions and acquisition requirements DOI: [https://doi.org/10.1016/j.neuroimage.2020.116835](https://doi.org/10.1038/s41598-023-30182-1)).
+The "***Relaxation-VERDICT (rVERDICT) Toolbox***" enables model-based joint estimation of relaxation and diffusion tissue parameters for prostate cancer using Machine Learning (see the original rVERDICT paper for model assumptions and acquisition requirements DOI: [https://doi.org/10.1016/j.neuroimage.2020.116835](https://doi.org/10.1038/s41598-023-30182-1)).
 
 For queries about the toolbox or suggestions on how to improve it, please email: palombom@cardiff.ac.uk
 
@@ -24,7 +24,7 @@ If you use Linux or MacOS:
 2. Navigate to your destination folder;
 3. Clone rVERDICT Toolbox:
 ```
-$ git clone https://github.com/palombom/rVERDICT.git 
+$ git clone https://github.com/palombom/Relaxation-VERDICT-Matlab-Toolbox-v1.0.git 
 ```
 The main function is called "**main_rVERDICT_analysis**" and it analyses one dataset with the rVERDICT model. 
 
@@ -51,7 +51,7 @@ Palombo, M., Valindria, V., Singh, S., Chiou, E., Giganti, F., Pye, H., ... & Pa
 
 
 ## License
-rVERDICT Toolbox is distributed under the BSD 2-Clause License (https://github.com/palombom/rVERDICT/blob/main/LICENSE), Copyright (c) 2022 Cardiff University and University College London. All rights reserved.
+rVERDICT Toolbox is distributed under the BSD 2-Clause License (https://github.com/palombom/Relaxation-VERDICT-Matlab-Toolbox-v1.0/blob/main/LICENSE), Copyright (c) 2022 Cardiff University and University College London. All rights reserved.
 
 **The use of rVERDICT Toolbox MUST also comply with the individual licenses of all of its dependencies.**
 
